@@ -3,31 +3,31 @@
 
 body{
     background-color:hsl(212, 45%, 89%) ;
+    height: 100vh;
+    display: grid;
+    place-items: center;
 }
 
-
 #container {
-    width: 260px;
+    width: 300px;
     height: 460px;
     background-color: hsl(0, 0%, 100%);
     display: flex;
-    justify-content: center;
     align-items: flex-start;
+    justify-content: center;
     border-radius: 20px;
     padding: 15px;
     flex-wrap: wrap;
-    margin: 200px auto;
     font-family: 'Outfit', sans-serif;
     text-align: center;
     box-shadow: 4px 16px 45px -9px #b8b4b8;
 }
-
 img {
-    width: 250px;
+    width: 290px;
     border-radius: 10px;
 }
 
-h2{
+h1{
     font-weight: 700;
     font-size: 19px;
     margin: 5px;
@@ -47,3 +47,8 @@ p{
     font-family: 'Outfit', sans-serif;
 }
 
+@media (max-width: 375px){
+    body {
+        font-size: 20px;
+    }
+}
