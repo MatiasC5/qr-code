@@ -7,7 +7,7 @@
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/MatiasC5/qr-code)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://matiasc5.github.io/qr-code/)
 
 ## My process
 
@@ -17,14 +17,13 @@
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5 
+- CSS 
 - Flexbox
 
 ### What I learned
 
-Working on this project I was able to reinforce knowledge about what I learned about css
-
+Working on this project I was able to reinforce knowledge about what I learned about css.
 
 
 ## Author
